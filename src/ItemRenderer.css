@@ -1,0 +1,7 @@
+.Item {
+  border: 2px solid white;
+  border-radius: 4px;
+  padding: 4px;
+  box-sizing: border-box;
+  transition: all 500ms ease-in-out;
+}
